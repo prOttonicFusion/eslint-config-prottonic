@@ -5,7 +5,7 @@ module.exports = {
         'jsx-quotes': ['warn', 'prefer-double'],
         'comma-dangle': ['warn', 'never'],
         'comma-spacing': ['warn', { 'before': false, 'after': true }],
-        "comma-style": ['warn', "first"],
+        "comma-style": ['warn', "last"],
         'arrow-parens': ['warn', 'as-needed'],
         'array-bracket-spacing': ['warn', 'never'],
         'object-curly-spacing': ['warn', 'always'],
