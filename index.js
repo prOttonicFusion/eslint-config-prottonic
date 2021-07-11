@@ -3,7 +3,7 @@ module.exports = {
         semi: ['warn', 'never'],
         quotes: ['warn', 'single'],
         'jsx-quotes': ['warn', 'prefer-double'],
-        'comma-dangle': ['warn', 'never'],
+        'comma-dangle': ['warn', 'always-multiline'],
         'comma-spacing': ['warn', { 'before': false, 'after': true }],
         "comma-style": ['warn', "last"],
         'arrow-parens': ['warn', 'as-needed'],
