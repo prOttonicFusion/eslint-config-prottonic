@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.0 - 2021-07-12
+- Change `comma-dangle` to `always-multiline`
+
 ## 1.1.0 - 2021-07-12
 - Change `comma-style` to `last`
 - Drop import declaration alphabetical sorting
