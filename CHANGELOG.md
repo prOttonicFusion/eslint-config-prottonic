@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 - 2021-07-12
+- Change `comma-style` to `last`
+- Drop import declaration alphabetical sorting
+
 ## 1.0.2 - 2021-07-11
 - Fix typo in the `quotes` rule
 
