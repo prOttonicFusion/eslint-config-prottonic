@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-prottonic",
+  "version": "1.0.0",
+  "description": "My personal ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prOttonicFusion/prottonic-lint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "prOttonicFusion",
+  "license": "MIT",
+  "homepage": "https://github.com/prOttonicFusion/prottonic-lint-config/eslint#readme",
+  "bugs": {
+    "url": "https://github.com/prOttonicFusion/prottonic-lint-config/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
