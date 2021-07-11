@@ -3,7 +3,7 @@
 ## Usage
 1. Install package
     ```
-    npm i eslint-config-prottonic
+    npm i --save-dev eslint-config-prottonic
     ```
 2. Include it to your ESLint configuration file as:
     ```json
@@ -14,4 +14,4 @@
 
 ## Versions 
 
-[Changelog](https://github.com/prOttonicFusion/eslint-config-prottonic/CHANGELOG.md)
+[Changelog](./CHANGELOG.md)
