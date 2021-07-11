@@ -16,9 +16,9 @@
   ],
   "author": "prOttonicFusion",
   "license": "MIT",
-  "homepage": "https://github.com/prOttonicFusion/prottonic-lint-config/eslint#readme",
+  "homepage": "https://github.com/prOttonicFusion/eslint-config-prottonic#readme",
   "bugs": {
-    "url": "https://github.com/prOttonicFusion/prottonic-lint-config/issues"
+    "url": "https://github.com/prOttonicFusion/eslint-config-prottonic/issues"
   },
   "peerDependencies": {
     "eslint": ">= 3"
