@@ -1,7 +1,7 @@
 module.exports = {
     rules: {
         semi: ['warn', 'never'],
-        quote: 'single',
+        quotes: ['warn', 'single'],
         'jsx-quotes': ['warn', 'prefer-double'],
         'comma-dangle': ['warn', 'never'],
         'comma-spacing': ['warn', { 'before': false, 'after': true }],
