@@ -14,4 +14,4 @@
 
 ## Versions 
 
-[Changelog](https://github.com/prOttonicFusion/prottonic-lint-configs/blob/main/eslint/CHANGELOG.md)
+[Changelog](https://github.com/prOttonicFusion/eslint-config-prottonic/CHANGELOG.md)
