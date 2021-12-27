@@ -6,7 +6,7 @@ module.exports = {
         'comma-dangle': ['warn', 'always-multiline'],
         'comma-spacing': ['warn', { 'before': false, 'after': true }],
         "comma-style": ['warn', "last"],
-        'arrow-parens': ['warn', 'as-needed'],
+        'arrow-parens': ['warn', 'always'],
         'array-bracket-spacing': ['warn', 'never'],
         'object-curly-spacing': ['warn', 'always'],
         'eol-last': 'warn',
