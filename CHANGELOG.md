@@ -1,5 +1,8 @@
 # Changelog
 
+# 1.3.0 - 2021-12-28
+- Change `arrow-parens` to `always`
+
 ## 1.2.0 - 2021-07-12
 - Change `comma-dangle` to `always-multiline`
 
