@@ -1,5 +1,8 @@
 # Changelog
 
+# 1.4.0 - 2023-11-20
+- Add TypeScript config
+
 # 1.3.0 - 2021-12-28
 - Change `arrow-parens` to `always`
 
