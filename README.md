@@ -20,6 +20,14 @@
     ]
     ```
 
+## Development
+
+Publishing a new version:
+```
+npm version <major|minor|patch> -m "release %s"
+npm publish
+```
+
 ## Versions 
 
 [Changelog](./CHANGELOG.md)
