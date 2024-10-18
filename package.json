@@ -21,6 +21,6 @@
     "url": "https://github.com/prOttonicFusion/eslint-config-prottonic/issues"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 9"
   }
 }

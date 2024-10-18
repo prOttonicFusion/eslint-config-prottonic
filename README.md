@@ -6,10 +6,18 @@
     npm i --save-dev eslint-config-prottonic
     ```
 2. Include it to your ESLint configuration file as:
-    ```json
-    {
-        "extends": "eslint-config-prottonic"
-    }
+    ```js
+    // eslint.config.js
+    import prottonic from 'eslint-config-prottonic'
+
+    export default [
+        ...prottonic,
+        {
+            rules: [
+                // ...
+            ]
+        }
+    ]
     ```
 
 ## Versions 

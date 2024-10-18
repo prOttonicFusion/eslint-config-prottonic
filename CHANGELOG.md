@@ -1,5 +1,8 @@
 # Changelog
 
+# 2.0.0 - 2024-10-18
+- Update to Eslint v9
+
 # 1.4.0 - 2023-11-20
 - Add TypeScript config
 
