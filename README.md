@@ -8,10 +8,12 @@
 2. Include it to your ESLint configuration file as:
     ```js
     // eslint.config.js
-    import prottonic from 'eslint-config-prottonic'
+    import base from 'eslint-config-prottonic/base.js'
+    import typescript from 'eslint-config-prottonic/typescript.js'
 
     export default [
-        ...prottonic,
+        ...base,
+        ...typescript,
         {
             rules: [
                 // ...
